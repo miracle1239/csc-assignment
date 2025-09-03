@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS csc database;
-USE csc assignmentt;
+CREATE DATABASE IF NOT EXISTS cscdatabase;
+USE cscdatabase;
 
 CREATE TABLE IF NOT EXISTS student_records (
     id INT AUTO_INCREMENT PRIMARY KEY,
