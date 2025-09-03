@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS school_db;
+CREATE DATABASE IF NOT EXISTS csc database;
 USE csc assignmentt;
 
 CREATE TABLE IF NOT EXISTS student_records (
