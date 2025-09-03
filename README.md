@@ -21,7 +21,7 @@ This version uses a **black & white theme with placeholders** (labels inside inp
 1. Copy project into `C:\xampp\htdocs\student_registration_bw_placeholder`.  
 2. Start Apache & MySQL in XAMPP.  
 3. Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
-   - Create database: `school_db`.  
+   - Create database: `anyname`.  
    - Import `database.sql`.  
 4. Run project in browser:  
    ```
